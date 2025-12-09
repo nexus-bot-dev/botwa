@@ -1,0 +1,23 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk manajemen grup, dilengkapi dengan fitur premium, anti-spam, dan perintah admin canggih, dikembangkan oleh Nexus Dev.",
+  "main": "whatsapp_group_bot.js",
+  "scripts": {
+    "start": "node whatsapp_group_bot.js",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "group-manager",
+    "whatsapp-web.js",
+    "node.js"
+  ],
+  "author": "Nexus Dev",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}

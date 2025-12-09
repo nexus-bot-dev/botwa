@@ -17,7 +17,7 @@ const qrcode = require('qrcode-terminal');
 // --- KONFIGURASI BOT ---
 const BOT_NAME = "Nexus Dev Bot";
 // GANTI DENGAN NOMOR BOT OWNER (Format: 62812xxxxxx@c.us)
-const BOT_OWNER_NUMBER = '6281234567890@c.us'; 
+const BOT_OWNER_NUMBER = '6287835216661@c.us'; 
 const GROUP_RULES = {}; 
 const PREMIUM_GROUPS = {};
 const ANTI_SPAM_KEYWORDS = ['http://', 'https://', '.com', '.xyz', '.biz', 't.me/', 'wa.me/'];
